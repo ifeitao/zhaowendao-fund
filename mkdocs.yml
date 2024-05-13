@@ -15,6 +15,7 @@ nav:
       - W11周报: reports/2024/report-2024W11.md
       - W14周报: reports/2024/report-2024W14.md
       - W18周报: reports/2024/report-2024W18.md
+      - W19周报: reports/2024/report-2024W19.md
     - 2023年:
       - 半年报: reports/2023/report-2023H1.md
       - W49周报: reports/2023/report-2023W49.md
@@ -73,7 +74,7 @@ nav:
     - 2016年:
       - 年报: reports/2016/report-2016.md
   - 操作记录:
-    - 2023年: logs/log-2023.md
+    - 2024年: logs/log-2024.md
   - 财务报表分析与证券估值: 
     - 第1章: penman5e/ch1.md
     
